@@ -1,0 +1,57 @@
+/* colori 
+colore body: #f6f8f9
+add task button: #47adf1
+editorial: #45abea
+q1 goals: #9c72e4
+recruting: #64c0a9
+mobile: #f29c2f
+website: #d863a1
+sales: #b0c926 
+*/
+
+
+/* General */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #f6f8f9 ;
+}
+
+
+/* CONTAINER/BOX */
+
+.header-box {
+   width: auto;
+   height: 80px;
+   background-color: white;
+   
+}
+
+/* IMMAGINI */
+
+img {
+    width: 70px;
+    margin-left: 20px;
+    vertical-align: bottom;
+
+}
+
+
+
+
+/* TESTI */
+
+
+h1 {
+    display: inline-block;
+    font-size: 55px;
+    padding-top: 10px;
+}
+
+
