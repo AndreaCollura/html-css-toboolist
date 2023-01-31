@@ -82,14 +82,96 @@ body {
 .checkmarky {
     width: 10px;
     height: 10px;
-    border: 2px solid rgb(15, 201, 15);
-    padding: 10px;
+    border: 1px solid rgb(15, 201, 15);
+    padding: 5px;
     border-radius: 50%;
     color: rgb(15, 201, 15);
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
+    
     
 
+}
+
+.checkmarkn {
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgb(201, 15, 15);
+    padding: 5px;
+    border-radius: 50%;
+    color: rgb(196, 10, 10);
+    text-align: center;
+    font-size: 12px;
+    
+    
+    
+
+}
+
+
+.tag-box {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#45abea ;
+    text-align: center;
+    font-size: 12px;
+}
+.tag-q1 {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#9c72e4 ;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tag-recu {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#64c0a9;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tag-mob {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#f29c2f ;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tag-web {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#d863a1 ;
+    text-align: center;
+    font-size: 12px;
+}
+
+.tag-sale {
+    width: 10px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color:#b0c926 ;
+    text-align: center;
+    font-size: 12px;
 }
 
 
@@ -117,15 +199,18 @@ h1 {
 
 ul {
     list-style: none;
-    padding: 20px
+    padding: 20px;
+    margin-left: 0;
 }
 
 li {
     font-weight: 600;
     font-size: 20px;
     line-height: 45px;
+    margin-left: 0;
 }
 
-span {
-    display: inline-block;
+h2 {
+    margin-left: 15px;
 }
+
